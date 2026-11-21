@@ -1,0 +1,12 @@
+# Core analysis libraries (derived from the notebook's imports)
+pandas>=2.0
+numpy>=2.0
+scikit-learn>=1.2
+scipy>=1.10
+
+# Visualization
+matplotlib>=3.7,<3.13
+seaborn>=0.13
+
+# Running the notebook locally
+jupyter
